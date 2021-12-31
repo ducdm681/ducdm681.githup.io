@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\bin\Debug\Operators.exe.config
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\bin\Debug\Operators.exe
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\bin\Debug\Operators.pdb
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\obj\Debug\Operators.exe
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Operators\obj\Debug\Operators.pdb

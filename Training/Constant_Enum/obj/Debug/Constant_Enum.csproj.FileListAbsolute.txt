@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\bin\Debug\Constant_Enum.exe.config
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\bin\Debug\Constant_Enum.exe
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\bin\Debug\Constant_Enum.pdb
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\obj\Debug\Constant_Enum.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\obj\Debug\Constant_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\obj\Debug\Constant_Enum.exe
+C:\Users\Administrator\Desktop\Training\1.Basic C#\Chủ đề 2\Constant_Enum\obj\Debug\Constant_Enum.pdb
